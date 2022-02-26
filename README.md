@@ -1,4 +1,4 @@
-# Vigenère-cipher
+# Vigenère cipher
 University exam project for the Logic and Functional Programming course 
 
 - Developer:  Cossi Simone
